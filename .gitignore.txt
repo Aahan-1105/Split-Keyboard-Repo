@@ -9,3 +9,4 @@
 *_autosave*
 *.tmp
 *.lck
+*.history
