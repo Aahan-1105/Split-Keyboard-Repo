@@ -10,3 +10,6 @@
 *.tmp
 *.lck
 *.history
+*.DS_Store
+*.gitattributes
+
