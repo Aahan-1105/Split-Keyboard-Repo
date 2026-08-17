@@ -1,0 +1,11 @@
+# IDE & Editor Local History
+.history/
+**/.history/
+.vscode/
+
+# KiCad Auto-saves and Backups
+*-backups/
+*.kicad_prl
+*_autosave*
+*.tmp
+*.lck
