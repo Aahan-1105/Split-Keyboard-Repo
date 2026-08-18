@@ -3,7 +3,7 @@
 
 My first PCBs, first personal electronics project, and much more. This has been a lot of firsts so please excuse mistakes. Key inspiration is also mentioned below.
 
-==Steal from the best, invent the rest==
+Steal from the best, invent the rest
 
 ## Overview
 The Venturi (aka model 901, venturi48) is a 48-key split, ergonomic keyboard. I can use lots of descriptors, but you can find that in the features section. 
@@ -15,6 +15,7 @@ The Venturi (aka model 901, venturi48) is a 48-key split, ergonomic keyboard. I 
 - Production files as used for production
 
 ## Images
+![Renders](Images/1 - Early Fusion 360 Render.png)
 
 ## Features
 - **48 Keys**  - All laptop keys within 2 layers, with additional layers for extra functionality. 
