@@ -78,19 +78,23 @@
       ],
       "drc_exclusions": [
         [
-          "shorting_items|217120000|107947500|15529a26-b837-4747-9fad-0307ff0a09ea|434252be-adfb-4577-996e-10c72a6b3992",
+          "silk_over_copper|100454819|134745238|9a44fecf-5f48-4e47-903f-0cee0abae53b|c744777a-561b-4c77-a1a4-bd96b5e901ff",
           ""
         ],
         [
-          "shorting_items|251055000|107947500|3354c42b-e380-42f6-90e6-955b80d83cd4|24582a23-3aef-48ea-abd8-bdfe6de0ee1d",
+          "silk_over_copper|100454819|152035714|b7bd3d57-0986-4cd2-8b60-1f732b93ea5e|d2d749a0-f13f-4e36-adbe-f3b8a80a11b8",
+          ""
+        ],
+        [
+          "silk_over_copper|100500000|117750000|649166b6-d409-48f3-af88-7e8a3eddb7aa|3d09c9fd-bec0-42ab-99ea-11a5493d2633",
+          ""
+        ],
+        [
+          "silk_over_copper|100788152|168940476|66ece8bb-4d58-4ffe-b876-b84c6479fb4b|96265fd9-882a-4ea3-b4c9-e90edaa16860",
           ""
         ],
         [
           "solder_mask_bridge|217120000|107947500|434252be-adfb-4577-996e-10c72a6b3992|15529a26-b837-4747-9fad-0307ff0a09ea",
-          ""
-        ],
-        [
-          "solder_mask_bridge|251055000|107947500|3354c42b-e380-42f6-90e6-955b80d83cd4|24582a23-3aef-48ea-abd8-bdfe6de0ee1d",
           ""
         ]
       ],
