@@ -78,6 +78,70 @@
       ],
       "drc_exclusions": [
         [
+          "clearance|100500000|118500000|3d09c9fd-bec0-42ab-99ea-11a5493d2633|5858309d-884a-47ba-b999-91aa2ef9efc7",
+          ""
+        ],
+        [
+          "clearance|350500000|119181818|39d632ab-1e94-4de9-b591-94d89903d37b|dd758cb6-9455-467a-8661-b2fa65b30814",
+          ""
+        ],
+        [
+          "clearance|350500000|126000000|39d632ab-1e94-4de9-b591-94d89903d37b|7783079d-6673-4e57-aac5-b5891887303c",
+          ""
+        ],
+        [
+          "clearance|352500000|119181818|39d632ab-1e94-4de9-b591-94d89903d37b|84d545ac-42ca-449e-b73b-7ce3345d1cd7",
+          ""
+        ],
+        [
+          "clearance|352772727|123727273|39d632ab-1e94-4de9-b591-94d89903d37b|7539e3db-abb7-42c4-a463-6bf9ddf4631b",
+          ""
+        ],
+        [
+          "clearance|356863636|119636364|39d632ab-1e94-4de9-b591-94d89903d37b|79c1d227-5233-4fde-8b9f-9563523355ef",
+          ""
+        ],
+        [
+          "clearance|357318182|124181818|39d632ab-1e94-4de9-b591-94d89903d37b|c5424dad-33a2-4cb1-8dbd-9e76c614fd52",
+          ""
+        ],
+        [
+          "clearance|363227273|117818182|39d632ab-1e94-4de9-b591-94d89903d37b|6ce196f1-c98c-473c-9d72-2228765eb32b",
+          ""
+        ],
+        [
+          "clearance|87500000|117000000|5858309d-884a-47ba-b999-91aa2ef9efc7|cb33d889-25dd-4e7a-8d38-461b1207324f",
+          ""
+        ],
+        [
+          "clearance|89318182|118500000|52f6e28d-8257-4973-a8e0-e523b5604b1f|5858309d-884a-47ba-b999-91aa2ef9efc7",
+          ""
+        ],
+        [
+          "clearance|89772727|122250000|04a615b3-51ad-4268-abab-fbe772b2baf3|5858309d-884a-47ba-b999-91aa2ef9efc7",
+          ""
+        ],
+        [
+          "clearance|93863636|119636364|5858309d-884a-47ba-b999-91aa2ef9efc7|7fed5417-3ab6-402c-a2ae-bcbb0d398642",
+          ""
+        ],
+        [
+          "clearance|94318182|124181818|5858309d-884a-47ba-b999-91aa2ef9efc7|bf2744c4-37ea-424a-a41e-23c32658376e",
+          ""
+        ],
+        [
+          "items_not_allowed|373500000|203000000|89329209-f52b-457e-8243-6d4817df7c11|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "shorting_items|217120000|107947500|434252be-adfb-4577-996e-10c72a6b3992|15529a26-b837-4747-9fad-0307ff0a09ea",
+          ""
+        ],
+        [
+          "shorting_items|251055000|107947500|24582a23-3aef-48ea-abd8-bdfe6de0ee1d|3354c42b-e380-42f6-90e6-955b80d83cd4",
+          ""
+        ],
+        [
           "silk_over_copper|100454819|134745238|9a44fecf-5f48-4e47-903f-0cee0abae53b|c744777a-561b-4c77-a1a4-bd96b5e901ff",
           ""
         ],
@@ -95,6 +159,14 @@
         ],
         [
           "solder_mask_bridge|217120000|107947500|434252be-adfb-4577-996e-10c72a6b3992|15529a26-b837-4747-9fad-0307ff0a09ea",
+          ""
+        ],
+        [
+          "solder_mask_bridge|251055000|107947500|24582a23-3aef-48ea-abd8-bdfe6de0ee1d|3354c42b-e380-42f6-90e6-955b80d83cd4",
+          ""
+        ],
+        [
+          "unconnected_items|219499500|127690458|F.Cu|4|89329209-f52b-457e-8243-6d4817df7c11|89329209-f52b-457e-8243-6d4817df7c11",
           ""
         ]
       ],
@@ -559,7 +631,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "/Users/aahanpoddar/Documents/KiCad/10.0/Split Keeb/Split Keyboard v2/V2 Complete Gerber/",
+      "plot": "01 - Production/Venturi48-Gerber-18-8-2026/",
       "specctra_dsn": "",
       "vrml": ""
     },
