@@ -5,6 +5,8 @@ My first PCBs, first personal electronics project, and much more. This has been 
 
 Steal from the best, invent the rest
 
+## ![FIRMWARE WIP in THIS REPO](https://github.com/Aahan-1105/zmk-config-venturi48)
+
 ## Overview
 The Venturi (aka model 901, venturi48) is a 48-key split, ergonomic keyboard. I can use lots of descriptors, but you can find that in the features section. 
 
