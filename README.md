@@ -17,7 +17,15 @@ The Venturi (aka model 901, venturi48) is a 48-key split, ergonomic keyboard. I 
 - Production files as used for production
 
 ## Images
+
+### CAD Render
 ![Corner Render](Images/corner.png)
+
+### Schematic (Left)
+![Left Schematic](Images/Venturi_left_schematic.png)
+
+### PCB (Panelized)
+![Panelized PCB](Images/Venturi_PCB.png)
 
 ## To-Do
 - Triple-check that PCBs are good and needed components are accounted for
