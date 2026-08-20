@@ -130,27 +130,11 @@
           ""
         ],
         [
-          "items_not_allowed|373500000|203000000|89329209-f52b-457e-8243-6d4817df7c11|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "shorting_items|217120000|107947500|434252be-adfb-4577-996e-10c72a6b3992|15529a26-b837-4747-9fad-0307ff0a09ea",
-          ""
-        ],
-        [
           "shorting_items|251055000|107947500|24582a23-3aef-48ea-abd8-bdfe6de0ee1d|3354c42b-e380-42f6-90e6-955b80d83cd4",
           ""
         ],
         [
-          "silk_over_copper|100454819|134745238|9a44fecf-5f48-4e47-903f-0cee0abae53b|c744777a-561b-4c77-a1a4-bd96b5e901ff",
-          ""
-        ],
-        [
           "silk_over_copper|100454819|152035714|b7bd3d57-0986-4cd2-8b60-1f732b93ea5e|d2d749a0-f13f-4e36-adbe-f3b8a80a11b8",
-          ""
-        ],
-        [
-          "silk_over_copper|100500000|117750000|649166b6-d409-48f3-af88-7e8a3eddb7aa|3d09c9fd-bec0-42ab-99ea-11a5493d2633",
           ""
         ],
         [
@@ -631,7 +615,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "01 - Production/Venturi48-Gerber-18-8-2026/",
+      "plot": "01 - Production/Venturi48-Gerber-19-8-2026/",
       "specctra_dsn": "",
       "vrml": ""
     },
